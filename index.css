@@ -3,6 +3,19 @@ body {
   background-color: #0a192f;
 }
 
+.content {
+  margin-left: 250px;
+}
+
+.content-div {
+  display: flexbox;
+}
+
+.content-block {
+  color: white;
+  font-size: x-large;
+}
+
 .sidenav {
   font-size: x-large;
   height: 100%;
